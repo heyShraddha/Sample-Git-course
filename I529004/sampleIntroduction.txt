@@ -4,3 +4,6 @@ Hello, I am just a sample file.
 
 
 Hi hello
+
+
+Hi just studying add and commit functions
