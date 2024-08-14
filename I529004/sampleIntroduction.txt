@@ -7,3 +7,6 @@ Hi hello
 
 
 Hi just studying add and commit functions
+
+
+hello
